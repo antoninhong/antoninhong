@@ -10,7 +10,8 @@
 - Piano
 - Linux
 - Developement
-
+- Anime/Manga
+- Moves/Series
 ---
 
 ## 🩸 Tech Stack
