@@ -1,6 +1,6 @@
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=E20000&center=true&vCenter=true&width=500&lines=Welcome+to+the+Crimson+Zone.;Code+%7C+Chaos+%7C+Creation.;Blooming+like+Red+Lycoris.">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+friend.)](https://git.io/typing-svg)
 </p>
 
 ---
