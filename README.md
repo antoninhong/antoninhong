@@ -26,25 +26,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&background=00000000&currStreakLabel=E20000&fire=E20000&sideNums=8e8e8e&sideLabels=E20000&dates=8e8e8e&hide_border=true" width="48%" />
 </p>
 
----
 
-## 🌺 Red Lycoris Ambience
-*(Replace the links with your own aesthetic images)*  
-<p align="center">
-  <img src="IMAGE_URL_1" height="150" />
-  <img src="IMAGE_URL_2" height="150" />
-  <img src="IMAGE_URL_3" height="150" />
-</p>
 
 ---
 
-## 👁️ Quotes (optional)
-> *“Even in the darkness, something red still blooms.”*  
-> *“Silence is also a form of strength.”*
-
----
-
-## 🜁 Connect With Me
+## 🜁 Contact
 <p align="center">
   <a href="https://x.com/zenushii">Twitter</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
