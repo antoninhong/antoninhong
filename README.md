@@ -46,8 +46,7 @@
 
 ## 🜁 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/">Instagram</a> •
-  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://x.com/zenushii">Twitter</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
