@@ -6,10 +6,10 @@
 ---
 
 ## 🔥 About Me
-- 👁️ Passionné(e) par : **dark aesthetics**, **front-end dev**, **storytelling visuel**
-- 🩸 Ambiance préférée : *noir, écarlate, atmosphère morte-saison*
-- 🌑 J’apprends : **Next.js**, **animation CSS**, **design minimal rouge/noir**
-- 🌺 Mood : *comme un lycoris rouge qui pousse dans l’obscurité*
+- Chess
+- Piano
+- Linux
+- Developement
 
 ---
 
@@ -17,16 +17,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode" />
 </p>
-
----
-
-## 🌹 Crimson Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&title_color=E20000&icon_color=E20000&text_color=8e8e8e&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&background=00000000&currStreakLabel=E20000&fire=E20000&sideNums=8e8e8e&sideLabels=E20000&dates=8e8e8e&hide_border=true" width="48%" />
-</p>
-
-
 
 ---
 
