@@ -26,9 +26,3 @@
   <a href="https://x.com/zenushii">Twitter</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
-
----
-
-<p align="center">
-  🩸 *Thanks for stepping into the crimson realm.* 🩸
-</p>
